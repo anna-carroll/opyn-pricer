@@ -13,7 +13,7 @@ $ npm i
 $ node index.js
 ```
 
-**Add the following keys to your .`.env` file**
+**Add the following keys to your `.env` file**
 
 ```
 DERIBIT_TAKER_FEE=[% trading fee]
