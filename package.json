@@ -1,0 +1,17 @@
+{
+  "name": "pricer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Anna Carroll",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.6"
+  }
+}
